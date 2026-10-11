@@ -14,7 +14,7 @@ Invalid input (letters instead of numbers, unknown menu options, IDs that don't 
 
 - JDK 17 or later (developed with Temurin JDK 21)
 
-## How to compile and run
+## How to compile and run.
 
 From the `LearnTrack` folder:
 
